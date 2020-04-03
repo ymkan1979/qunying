@@ -1,0 +1,21 @@
+body{
+  background-color:#edffea;
+  font-family: 'Baloo Da 2', cursive;
+}
+
+h1{
+  color:#75daad;
+  font-family: 'Anton', sans-serif;
+  letter-spacing: 3px;
+}
+
+
+.rcorners2 {
+  border-radius: 25px;
+  border: 2px solid white;
+  padding: 20px;
+  width: 600px;
+  height: 250px;
+  text-align: center;
+  margin: 100px auto;
+}
